@@ -1,0 +1,13 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.55),rgba(255,255,255,0.35)), url("/assets/images/reserved.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
